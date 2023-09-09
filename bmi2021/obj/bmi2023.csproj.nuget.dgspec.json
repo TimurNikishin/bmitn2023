@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timur\\dev\\tud\\csd\\bmi2023lab\\bmi2021\\bmi2023.csproj": {}
+    "C:\\Users\\timur\\dev\\tud\\csd\\bmitn2023\\bmi2021\\bmi2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timur\\dev\\tud\\csd\\bmi2023lab\\bmi2021\\bmi2023.csproj": {
+    "C:\\Users\\timur\\dev\\tud\\csd\\bmitn2023\\bmi2021\\bmi2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timur\\dev\\tud\\csd\\bmi2023lab\\bmi2021\\bmi2023.csproj",
+        "projectUniqueName": "C:\\Users\\timur\\dev\\tud\\csd\\bmitn2023\\bmi2021\\bmi2023.csproj",
         "projectName": "bmi2023",
-        "projectPath": "C:\\Users\\timur\\dev\\tud\\csd\\bmi2023lab\\bmi2021\\bmi2023.csproj",
+        "projectPath": "C:\\Users\\timur\\dev\\tud\\csd\\bmitn2023\\bmi2021\\bmi2023.csproj",
         "packagesPath": "C:\\Users\\timur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timur\\dev\\tud\\csd\\bmi2023lab\\bmi2021\\obj\\",
+        "outputPath": "C:\\Users\\timur\\dev\\tud\\csd\\bmitn2023\\bmi2021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\timur\\AppData\\Roaming\\NuGet\\NuGet.Config",

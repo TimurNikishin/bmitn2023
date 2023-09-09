@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = bmi2023
 build_property.RootNamespace = bmi2023
-build_property.ProjectDir = c:\Users\timur\dev\tud\csd\bmi2023lab\bmi2021\
+build_property.ProjectDir = c:\Users\timur\dev\tud\csd\bmitn2023\bmi2021\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\timur\dev\tud\csd\bmi2023lab\bmi2021
+build_property.MSBuildProjectDirectory = c:\Users\timur\dev\tud\csd\bmitn2023\bmi2021
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/timur/dev/tud/csd/bmi2023lab/bmi2021/Pages/bmi.cshtml]
+[c:/Users/timur/dev/tud/csd/bmitn2023/bmi2021/Pages/bmi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYm1pLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/timur/dev/tud/csd/bmi2023lab/bmi2021/Pages/Error.cshtml]
+[c:/Users/timur/dev/tud/csd/bmitn2023/bmi2021/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/timur/dev/tud/csd/bmi2023lab/bmi2021/Pages/Privacy.cshtml]
+[c:/Users/timur/dev/tud/csd/bmitn2023/bmi2021/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/timur/dev/tud/csd/bmi2023lab/bmi2021/Pages/Shared/_Layout.cshtml]
+[c:/Users/timur/dev/tud/csd/bmitn2023/bmi2021/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/timur/dev/tud/csd/bmi2023lab/bmi2021/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/timur/dev/tud/csd/bmitn2023/bmi2021/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/timur/dev/tud/csd/bmi2023lab/bmi2021/Pages/_ViewImports.cshtml]
+[c:/Users/timur/dev/tud/csd/bmitn2023/bmi2021/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/timur/dev/tud/csd/bmi2023lab/bmi2021/Pages/_ViewStart.cshtml]
+[c:/Users/timur/dev/tud/csd/bmitn2023/bmi2021/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
