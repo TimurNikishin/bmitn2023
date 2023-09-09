@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bmi2023.props" />
+</Project>

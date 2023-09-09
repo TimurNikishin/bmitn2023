@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/37b336d4-e90e-4408-ae6e-9bb8773a992e/resourceGroups/bmitn2023/providers/Microsoft.Web/sites/bmitn2023",
+    "appService.deploySubpath": "bmi2021\\bin\\Publish"
+}

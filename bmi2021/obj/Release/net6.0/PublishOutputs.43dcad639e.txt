@@ -1,0 +1,7 @@
+C:\Users\timur\dev\tud\csd\bmi2023lab\bmi2021\bin\Publish\bmi2023.exe
+C:\Users\timur\dev\tud\csd\bmi2023lab\bmi2021\bin\Publish\appsettings.Development.json
+C:\Users\timur\dev\tud\csd\bmi2023lab\bmi2021\bin\Publish\appsettings.json
+C:\Users\timur\dev\tud\csd\bmi2023lab\bmi2021\bin\Publish\bmi2023.dll
+C:\Users\timur\dev\tud\csd\bmi2023lab\bmi2021\bin\Publish\bmi2023.deps.json
+C:\Users\timur\dev\tud\csd\bmi2023lab\bmi2021\bin\Publish\bmi2023.runtimeconfig.json
+C:\Users\timur\dev\tud\csd\bmi2023lab\bmi2021\bin\Publish\bmi2023.pdb
