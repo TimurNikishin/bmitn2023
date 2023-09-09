@@ -1,7 +1,7 @@
-name: bmitn2023-ci                                        # "BMI_CI" workflow, name is optional
+name: bmitn2023-ci                                  # "BMI_CI" workflow, name is optional
 
 env:
-  AZURE_WEBAPP_NAME: gc-bmicalculator-ga            # set this to your application's name
+  AZURE_WEBAPP_NAME: bmitn2023                      # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: 'publish'              # set this to the path to your web app project
 
 on:
@@ -12,7 +12,7 @@ on:
 
 jobs:
   build:                                            # "build" job
-    runs-on: windows-latest                         # runner
+    runs-on: ubuntu-latest                          # runner
     steps:
     - uses: actions/checkout@v3
     - name: Setup .NET
